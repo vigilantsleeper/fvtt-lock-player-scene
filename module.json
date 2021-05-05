@@ -1,0 +1,12 @@
+{
+  "name": "fvtt-lock-player-scene",
+  "title": "lock-player-scene",
+  "description": "lock a player to a scene",
+  "author": "vigilantsleeper",
+  "version": "1.0",
+  "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "0.7.9",
+"url": "https://github.com/vigilantsleeper/fvtt-lock-player-scene",
+"manifest": "https://raw.githubusercontent.com/vigilantsleeper/fvtt-lock-player-scene/main/module.json",
+"download": "https://github.com/vigilantsleeper/fvtt-lock-player-scene/raw/1.0/fvtt-lock-player-scene.zip"
+}
