@@ -8,5 +8,5 @@
   "compatibleCoreVersion": "0.7.9",
 "url": "https://github.com/vigilantsleeper/fvtt-lock-player-scene",
 "manifest": "https://raw.githubusercontent.com/vigilantsleeper/fvtt-lock-player-scene/main/module.json",
-"download": "https://raw.githubusercontent.com/vigilantsleeper/fvtt-lock-player-scene/main/fvtt-lock-player-scene.js"
+"download": "https://github.com/vigilantsleeper/fvtt-lock-player-scene/releases/download/0.1/fvtt-lock-player-scene.zip"
 }
